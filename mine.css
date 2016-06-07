@@ -1,0 +1,10 @@
+body{ margin: 0; font-family: "Microsoft Yahei","Helvetica"; font-size: 1.2em; }
+input{ text-align: center; }
+#page{ min-width: 540px; }
+#game{ width: 300px; min-width: 300px; margin: 20px auto 20px; padding: 10px 20px; border: 1px dotted #233; text-align: center; }
+#game a{ display: inline-block; margin: 10px; padding: 10px 20px; text-decoration: none; background: #f64; color: #eee; }
+#container{ text-align: center; }
+.box { display: inline-block; width: 40px; height: 40px; line-height: 40px; border: 1px solid #fff; background: #eee; cursor: pointer; text-align: center; vertical-align: middle; }
+.box:hover { background: #ccc; }
+#log { display: none; position: fixed; top: 0; right: 0; width: 500px; height: 300px; border: 1px solid #222; overflow: scroll; padding: 10px; }
+#shenlong{ display: none; }
